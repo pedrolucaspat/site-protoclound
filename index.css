@@ -1,0 +1,44 @@
+html{
+  font-size: 62.5%; 
+}
+body{
+ background-color: #f5f5f5f5;
+  
+}
+.main-container{
+  max-width: 1198px;
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+header{
+  
+}
+section{
+  font-size: 1.5rem;
+}
+section nav{
+  
+}
+section article{
+  
+  
+}
+
+footer{
+  
+}
+h1{
+  font-size: 2.4rem;
+}
+h2{
+  font-size: 2.0rem;
+  
+}
+h3{
+  font-size: 1.8rem;
+}
+h4{
+  font-size: 1.6rem;
+}
